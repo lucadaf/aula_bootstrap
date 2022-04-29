@@ -1,0 +1,38 @@
+body {
+    font-size: 10px;
+    font-family: Verdana, Arial;
+}
+
+.navbar {
+    background-color: #ECAFA9;
+    padding-bottom: 20px;
+}
+
+.quem-somos {
+    background-color: #E0ECA9;
+    text-align: center;
+    color: grey;
+}
+
+.parceiros {
+    color: grey;
+}
+
+.servicos{
+    background-color: #E4D3F5;
+    color: grey;
+}
+.margin {
+    padding-bottom: 50px;
+}
+
+.margin-text {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.bg-footer{
+    background-color: grey;
+    color: whitesmoke;
+}
